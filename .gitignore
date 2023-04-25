@@ -2,3 +2,4 @@
 *.txt
 *.bat
 .vuepress
+node_modules/
