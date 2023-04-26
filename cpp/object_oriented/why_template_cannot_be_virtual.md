@@ -1,4 +1,4 @@
-# 为什么C++的member function template不能是virtual的
+# 为什么C++的 member function template不能是virtual的
 
 面试高频指数：★★☆☆☆
 
@@ -32,4 +32,5 @@ class Animal{
 所以当一个虚拟函数是模板函数时，编译器在编译时无法为其生成一个确定的虚函数表条目，因为模板函数可以有无数个实例。但是编译时无法确定需要调用哪个特定的模板实例。因此，C++标准规定member function 不能既是 template 又是 virtual 的。
 
 >  参考: https://www.zhihu.com/question/60911582/answer/182045051
+
 >  [What is the best C++ interview question?](https://softwareengineering.stackexchange.com/questions/25836/what-is-the-best-c-interview-question/25897#25897)
