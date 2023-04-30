@@ -5,8 +5,8 @@
 * [互联网校招流程](https://csguide.cn/offer/campus_process.html)
 * [一文搞懂互联网春招](https://csguide.cn/offer/chunzhao.html)
 * [一文搞懂互联网秋招](https://csguide.cn/offer/qiuzhao.html)
-
-* [一文搞懂互联网秋招](https://csguide.cn/offer/qiuzhao.html)
+* [计算机校招如何高效复习?](https://csguide.cn/offer/how_to_review.html)
+* [技术岗简历如何写?](https://csguide.cn/offer/how_to_resume.html)
 
 > 加油，祝大家都能拿到满意的offer~
 
